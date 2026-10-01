@@ -20,27 +20,23 @@
 
 ## 🌎 Sobre mim
 
-Trabalho na **Coordenadoria de Geoprocessamento e Monitoramento Ambiental (CGMA) da SEMA-MT**, onde
-transformo rotinas manuais de geoprocessamento em **sistemas automáticos** que sustentam a fiscalização,
-o licenciamento e a regularização ambiental de Mato Grosso, um estado com mais de 2,5 vezes a área da Alemanha e que
-abriga Amazônia, Cerrado e Pantanal.
+Trabalho na **Coordenadoria de Geoprocessamento e Monitoramento Ambiental (CGMA) da SEMA-MT**, em Mato
+Grosso, um estado com mais de 2,5 vezes a área da Alemanha e que abriga Amazônia, Cerrado e Pantanal.
 
-Desde 2020 escrevo código para **dados geoespaciais em escala estadual**: bases federais que se atualizam
-sozinhas, cruzamentos de alertas de desmatamento com embargos e autorizações, painéis do Cadastro Ambiental
-Rural (CAR), publicação de camadas para outros órgãos e, mais recentemente, **inteligência artificial local**
-aplicada a documentos públicos, com os dados sem sair da instituição.
+Fora do expediente, escrevo código por conta própria desde 2020: **geoprocessamento, sensoriamento remoto
+e automação**, e, mais recentemente, **inteligência artificial local**. Os projetos deste perfil são
+pessoais e independentes: não são produtos de nenhuma instituição nem falam em nome dela.
 
 ## 🛠️ O que eu construo
 
-| Área | Exemplos de soluções (em produção na SEMA-MT) |
+| Área | O que eu desenvolvo |
 |---|---|
-| 🛰️ **Imagens de satélite** | **[ArcMagery](https://github.com/Yiuky/arcgis-google-earth-engine-explorer)**: Add-In open source para o ArcMap que traz Google Earth Engine, CBERS/INPE, SPOT/CNES, Google Earth histórico e Esri Wayback direto para o TOC, na resolução nativa; pipelines de mosaicos Landsat em escala estadual |
-| 🌳 **Monitoramento do desmatamento** | Cruzamento topológico diário de alertas (DETER/INPE e outros), autorizações de desmate, embargos e autuações, alimentando painéis de fiscalização |
-| 🤖 **ETL geoespacial autônomo** | Robô que mantém atualizadas cerca de 10 bases federais (INCRA, IBAMA, ICMBio, FUNAI, SICAR, MapBiomas), com fallback entre fontes, multiprocessamento e publicação automática no GeoServer |
-| 🧾 **CAR e regularização ambiental** | Indicadores e painéis do CAR, produtividade da análise, cruzamento de reserva legal e APP com termos de compromisso, carga de dados do CAR digital |
-| 🧠 **IA local e LGPD** | Tarjamento automático de dados pessoais em PDFs (YOLO + OCR + LLM + revisão humana) e triagem de processos administrativos com LLMs rodando localmente (Ollama) |
-| 🗺️ **Infraestrutura de dados** | Administração do Geoportal via GeoServer REST (estilos, cache, controle de acesso e compartilhamento com outros órgãos), governança da base geográfica corporativa em Oracle Spatial |
-| 🧰 **Ferramentas para outros setores** | Importador de outorgas de poços para recursos hídricos, georreferenciamento de fotos de campo, exportadores com interface gráfica para não programadores |
+| 🛰️ **Imagens de satélite** | **[ArcMagery](https://github.com/Yiuky/arcgis-google-earth-engine-explorer)**: Add-In open source para o ArcMap que traz Google Earth Engine, CBERS/INPE, SPOT/CNES, Google Earth histórico e Esri Wayback direto para o TOC, na resolução nativa; mosaicos de imagens em grandes áreas |
+| 🌳 **Dados ambientais abertos** | Cruzamentos topológicos entre camadas públicas (alertas de desmatamento, áreas protegidas, uso do solo) e painéis para explorar os resultados |
+| 🤖 **ETL geoespacial** | Rotinas que baixam e atualizam bases públicas (INCRA, ICMBio, FUNAI, SICAR, MapBiomas), com fallback entre fontes, multiprocessamento e publicação em GeoServer |
+| 🧠 **IA local e privacidade** | Tarjamento automático de dados pessoais em PDFs (YOLO + OCR + LLM + revisão humana) e classificação de documentos com LLMs rodando localmente (Ollama) |
+| 🗺️ **Infraestrutura de dados** | Automação do GeoServer via REST (estilos, cache e controle de acesso) e bancos espaciais (PostGIS, Oracle Spatial) |
+| 🧰 **Ferramentas de apoio** | Georreferenciamento de fotos de campo, importadores de planilhas para camadas e exportadores com interface gráfica para quem não programa |
 
 ## 💻 Tecnologias
 
