@@ -12,8 +12,8 @@
 <p align="center">
   <a href="https://github.com/Yiuky/arcgis-google-earth-engine-explorer"><img src="https://img.shields.io/badge/Projeto%20destaque-ArcMagery-1B4F72?style=for-the-badge" alt="ArcMagery"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
-  <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="#-doe-um-café-para-o-dev"><img src="https://img.shields.io/badge/☕-Doe%20um%20café-E67E22?style=for-the-badge" alt="Doe um café"></a>
+  <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="#-doe-um-café-para-o-dev"><img src="https://img.shields.io/badge/%E2%98%95%20Doe%20um%20caf%C3%A9-Pix-E67E22?style=for-the-badge" alt="Doe um café"></a>
 </p>
 
 ---
@@ -48,19 +48,19 @@ aplicada a documentos públicos, com os dados sem sair da instituição.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/ArcGIS%20%2F%20arcpy-2C7AC3?logo=arcgis&logoColor=white" alt="ArcGIS">
   <img src="https://img.shields.io/badge/QGIS%20%2F%20PyQGIS-589632?logo=qgis&logoColor=white" alt="QGIS">
-  <img src="https://img.shields.io/badge/GDAL%20%2F%20OGR-5CAE58" alt="GDAL">
-  <img src="https://img.shields.io/badge/GeoPandas%20%2F%20Shapely-139C5A" alt="GeoPandas">
+  <img src="https://img.shields.io/badge/GDAL%20%2F%20OGR-5CAE58?logo=gdal&logoColor=white" alt="GDAL">
+  <img src="https://img.shields.io/badge/GeoPandas%20%2F%20Shapely-139C5A?logo=geopandas&logoColor=white" alt="GeoPandas">
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
   <img src="https://img.shields.io/badge/GeoServer-0088A9" alt="GeoServer">
-  <img src="https://img.shields.io/badge/Oracle%20Spatial-F80000?logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Oracle%20Spatial-F80000" alt="Oracle">
   <img src="https://img.shields.io/badge/PostGIS-336791?logo=postgresql&logoColor=white" alt="PostGIS">
   <img src="https://img.shields.io/badge/Ollama%20%2F%20LLMs%20locais-000000?logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/YOLO%20%2F%20OCR-00FFFF" alt="YOLO OCR">
+  <img src="https://img.shields.io/badge/YOLO%20%2F%20OCR-5C3EE8?logo=opencv&logoColor=white" alt="YOLO OCR">
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9" alt="Superset">
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?logo=apachesuperset&logoColor=white" alt="Superset">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code">
 </p>
 
 ## 📚 Formação e pesquisa
@@ -104,5 +104,5 @@ evoluindo.
 
 <p>
   <a href="https://github.com/Yiuky"><img src="https://img.shields.io/badge/GitHub-Yiuky-181717?logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/LinkedIn-Joberth%20Firmino%20Gambati-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/in%20LinkedIn-Joberth%20Firmino%20Gambati-0A66C2" alt="LinkedIn"></a>
 </p>
