@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yiuky/arcgis-google-earth-engine-explorer"><img src="https://img.shields.io/badge/Projeto%20principal-ArcMagery-1B4F72?style=for-the-badge" alt="ArcMagery"></a>
+  <a href="https://github.com/Yiuky/ArcMagery"><img src="https://img.shields.io/badge/Projeto%20principal-ArcMagery-1B4F72?style=for-the-badge" alt="ArcMagery"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
   <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="#-doe-um-café-para-o-dev"><img src="https://img.shields.io/badge/%E2%98%95%20Doe%20um%20caf%C3%A9-Pix-E67E22?style=for-the-badge" alt="Doe um café"></a>
@@ -29,11 +29,11 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
 ## 🚀 Projetos públicos
 
 <p>
-  <a href="https://github.com/Yiuky/arcgis-google-earth-engine-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=arcgis-google-earth-engine-explorer&locale=pt-br&description_lines_count=3" alt="ArcMagery" height="140"></a>
+  <a href="https://github.com/Yiuky/ArcMagery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ArcMagery&locale=pt-br&description_lines_count=3" alt="ArcMagery" height="140"></a>
   <a href="https://github.com/Yiuky/CODES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=CODES&locale=pt-br&description_lines_count=3" alt="CODES" height="140"></a>
 </p>
 
-- **[ArcMagery](https://github.com/Yiuky/arcgis-google-earth-engine-explorer)** (Python 2.7 + 3, open source,
+- **[ArcMagery](https://github.com/Yiuky/ArcMagery)** (Python 2.7 + 3, open source,
   MIT): Add-In para o ArcMap 10.8 que busca, recorta e carrega imagens de satélite direto no TOC, na
   resolução nativa, de seis fontes: Google Earth Engine, CBERS/Amazônia-1 (INPE), SPOT 1–5 (CNES, com
   alinhamento automático à Esri por correlação de fase), Google Earth histórico, Esri Wayback e XYZ.
