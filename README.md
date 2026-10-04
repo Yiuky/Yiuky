@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Yiuky/ArcMagery"><img src="https://img.shields.io/badge/Projeto%20principal-ArcMagery-1B4F72?style=for-the-badge" alt="ArcMagery"></a>
+  <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://img.shields.io/badge/IA%20local-PrivioSentry-6941C6?style=for-the-badge" alt="PrivioSentry"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
   <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="#-doe-um-café-para-o-dev"><img src="https://img.shields.io/badge/%E2%98%95%20Doe%20um%20caf%C3%A9-Pix-E67E22?style=for-the-badge" alt="Doe um café"></a>
@@ -30,6 +31,8 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
 
 <p>
   <a href="https://github.com/Yiuky/ArcMagery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ArcMagery&locale=pt-br&description_lines_count=3" alt="ArcMagery" height="140"></a>
+  <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=PrivioSentry&locale=pt-br&description_lines_count=3" alt="PrivioSentry" height="140"></a>
+  <a href="https://github.com/Yiuky/ReperIO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ReperIO&locale=pt-br&description_lines_count=3" alt="ReperIO" height="140"></a>
   <a href="https://github.com/Yiuky/CODES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=CODES&locale=pt-br&description_lines_count=3" alt="CODES" height="140"></a>
 </p>
 
@@ -38,6 +41,14 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
   resolução nativa, de seis fontes: Google Earth Engine, CBERS/Amazônia-1 (INPE), SPOT 1–5 (CNES, com
   alinhamento automático à Esri por correlação de fase), Google Earth histórico, Esri Wayback e XYZ.
   Instala as próprias dependências sem `pip`, se diagnostica e se atualiza com verificação SHA-256 e rollback.
+- **[PrivioSentry](https://github.com/Yiuky/PrivioSentry)** (Python, open source, AGPL-3.0): encontra CPFs e
+  endereços pessoais em PDFs com IA que roda na própria máquina (Tesseract OCR + detector YOLO de assinaturas +
+  LLM de visão via Ollama), sugere as tarjas e leva tudo para revisão humana num editor web, com verificação
+  pós-tarja que **falha fechado**: na dúvida, o documento vai para revisão. Apoia práticas alinhadas à LGPD,
+  sem prometer anonimização garantida.
+- **[ReperIO](https://github.com/Yiuky/ReperIO)** (Python, open source, MIT): encontra, indexa, exporta
+  (Excel/CSV/TXT) e copia arquivos em servidores de arquivos grandes e lentos (SMB/DFS), sem instalar nada.
+  Executável único para Windows e Linux, que não trava com pastas que congelam a conexão.
 - **[CODES](https://github.com/Yiuky/CODES)**: scripts para metadados EXIF de fotos de campo (carimbo de
   data, hora e coordenadas; gravação de GPS).
 
@@ -48,8 +59,8 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
 | 🛰️ **Sensoriamento remoto** | Google Earth Engine, catálogos STAC, mosaicos e índices espectrais, georreferenciamento e corregistro de imagens |
 | 🗺️ **Geoprocessamento** | ArcGIS/arcpy, QGIS/PyQGIS, GDAL/OGR, GeoPandas; análises topológicas entre camadas; bancos espaciais (PostGIS, Oracle Spatial) |
 | 🤖 **Automação e ETL** | Rotinas que baixam e atualizam bases públicas, com fallback entre fontes, multiprocessamento e publicação em GeoServer via REST |
-| 🧠 **IA local** | Visão computacional (YOLO + OCR) e LLMs rodando na própria máquina (Ollama) para processar documentos sem enviar dados para fora |
-| 🧰 **Ferramentas para não programadores** | Interfaces gráficas, instaladores com diagnóstico e atualização automática |
+| 🧠 **IA local** | Visão computacional (YOLO + OCR) e LLMs rodando na própria máquina (Ollama) para processar documentos sem enviar dados para fora, como no [PrivioSentry](https://github.com/Yiuky/PrivioSentry) |
+| 🧰 **Ferramentas para não programadores** | Interfaces gráficas, instaladores com diagnóstico e atualização automática, executáveis únicos sem instalação ([ReperIO](https://github.com/Yiuky/ReperIO)) |
 
 ## 💻 Tecnologias
 
