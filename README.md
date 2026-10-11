@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yiuky/ArcMagery"><img src="https://img.shields.io/badge/Projeto%20principal-ArcMagery-1B4F72?style=for-the-badge" alt="ArcMagery"></a>
+  <a href="https://github.com/Yiuky/ArcMagery-releases"><img src="https://img.shields.io/badge/Projeto%20principal-ArcMagery%20%26%20QMagery-1B4F72?style=for-the-badge" alt="ArcMagery & QMagery"></a>
   <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://img.shields.io/badge/IA%20local-PrivioSentry-6941C6?style=for-the-badge" alt="PrivioSentry"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
   <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
@@ -36,11 +36,11 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
   <a href="https://github.com/Yiuky/CODES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=CODES&locale=pt-br&description_lines_count=3" alt="CODES" height="140"></a>
 </p>
 
-- **[ArcMagery](https://github.com/Yiuky/ArcMagery)** (Python 2.7 + 3, open source,
-  MIT): Add-In para o ArcMap 10.8 que busca, recorta e carrega imagens de satélite direto no TOC, na
-  resolução nativa, de seis fontes: Google Earth Engine, CBERS/Amazônia-1 (INPE), SPOT 1–5 (CNES, com
-  alinhamento automático à Esri por correlação de fase), Google Earth histórico, Esri Wayback e XYZ.
-  Instala as próprias dependências sem `pip`, se diagnostica e se atualiza com verificação SHA-256 e rollback.
+- **[ArcMagery & QMagery](https://github.com/Yiuky/ArcMagery-releases)** (Python 2.7 + 3, open source,
+  MIT): Ferramenta para ArcGIS Desktop (ArcMap 10.8) e QGIS (3.18+) que busca, recorta e carrega imagens de
+  satélite direto no mapa na resolução nativa, de seis fontes: Google Earth Engine, CBERS-2/4/Amazônia-1 (INPE),
+  SPOT 1–5 (CNES, com alinhamento por correlação de fase), Google Earth histórico, Esri Wayback e XYZ.
+  Motor portátil independente, instalador automatizado, verificação SHA-256 e repositório próprio de plugins do QGIS.
 - **[PrivioSentry](https://github.com/Yiuky/PrivioSentry)** (Python, open source, AGPL-3.0): encontra CPFs e
   endereços pessoais em PDFs com IA que roda na própria máquina (Tesseract OCR + detector YOLO de assinaturas +
   LLM de visão via Ollama), sugere as tarjas e leva tudo para revisão humana num editor web, com verificação
