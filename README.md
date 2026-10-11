@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://yiuky.github.io"><img src="https://img.shields.io/badge/🌐%20Website-yiuky.github.io-0F172A?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/Yiuky/ArcMagery-releases"><img src="https://img.shields.io/badge/Projeto%20principal-ArcMagery%20%26%20QMagery-1B4F72?style=for-the-badge" alt="ArcMagery & QMagery"></a>
   <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://img.shields.io/badge/IA%20local-PrivioSentry-6941C6?style=for-the-badge" alt="PrivioSentry"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
