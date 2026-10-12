@@ -9,6 +9,7 @@
   <a href="https://yiuky.github.io"><img src="https://img.shields.io/badge/Website-yiuky.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://github.com/sponsors/Yiuky"><img src="https://img.shields.io/badge/Sponsor-Yiuky-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
   <a href="https://github.com/Yiuky/ArcMagery-releases"><img src="https://img.shields.io/badge/Projeto%20Principal-ArcMagery%20%26%20QMagery-1B4F72?style=for-the-badge&logo=esri&logoColor=white" alt="ArcMagery & QMagery"></a>
+  <a href="https://github.com/Yiuky/porta-voz"><img src="https://img.shields.io/badge/Porta--Voz-Android%20APK-059669?style=for-the-badge&logo=android&logoColor=white" alt="Porta-Voz"></a>
   <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://img.shields.io/badge/IA%20Local-PrivioSentry-6941C6?style=for-the-badge&logo=ollama&logoColor=white" alt="PrivioSentry"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
   <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/LinkedIn-Joberth%20Gambati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -42,20 +43,20 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/Yiuky/PrivioSentry">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=PrivioSentry&locale=pt-br&description_lines_count=3" alt="PrivioSentry" />
+        <a href="https://github.com/Yiuky/porta-voz">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=porta-voz&locale=pt-br&description_lines_count=3" alt="Porta-Voz" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/Yiuky/ReperIO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ReperIO&locale=pt-br&description_lines_count=3" alt="ReperIO" />
+        <a href="https://github.com/Yiuky/PrivioSentry">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=PrivioSentry&locale=pt-br&description_lines_count=3" alt="PrivioSentry" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/Yiuky/CODES">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=CODES&locale=pt-br&description_lines_count=3" alt="CODES" />
+        <a href="https://github.com/Yiuky/ReperIO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ReperIO&locale=pt-br&description_lines_count=3" alt="ReperIO" />
         </a>
       </td>
     </tr>
@@ -63,8 +64,8 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
 </div>
 
 - **[ArcMagery & QMagery](https://github.com/Yiuky/ArcMagery-releases)** (Python 2.7 + 3, uso gratuito): Ferramenta para ArcGIS Desktop (ArcMap 10.8) e QGIS (3.18+) que busca, recorta e carrega imagens de satélite direto no mapa na resolução nativa, de seis fontes: Google Earth Engine, CBERS-2/4/Amazônia-1 (INPE), SPOT 1–5 (CNES, com alinhamento geométrico à Esri), Google Earth histórico, Esri Wayback e XYZ. Motor portátil independente, instalador automatizado, verificação SHA-256 e repositório próprio de plugins do QGIS.
+- **[Porta-Voz](https://github.com/Yiuky/porta-voz)** (App Android, APK v0.3.0, Gemini Live): assistente de voz em tempo real que faz e recebe chamadas telefônicas reais pelo próprio chip do celular (Android 12+). Navega em menus automáticos (URA / DTMF), cota serviços, anota recados e agenda compromissos com supervisão humana estrita: a IA dialoga, mas só confirma qualquer decisão mediante autorização expressa do usuário.
 - **[PrivioSentry](https://github.com/Yiuky/PrivioSentry)** (Python, open source, AGPL-3.0): encontra CPFs e endereços pessoais em PDFs com IA que roda na própria máquina (Tesseract OCR + detector YOLO de assinaturas + LLM de visão via Ollama), sugere as tarjas e leva tudo para revisão humana num editor web, com verificação pós-tarja que **falha fechado**: na dúvida, o documento vai para revisão. Apoia práticas alinhadas à LGPD, sem prometer anonimização garantida.
-- **[Porta-Voz](https://github.com/Yiuky/agente-ligacao)** (Python, Gemini Live, local-first): assistente de IA com voz bidirecional de baixa latência que faz e recebe ligações telefônicas reais pelo próprio celular Android, utilizando o chip e plano móvel existente do usuário com áudio 100% digital entre PC e telefone. Projetado para desatar burocracias de rotina (cotar exames, agendar consultas, confirmar horários) com controle humano estrito: a IA segue o roteiro, mas só confirma ou fecha qualquer compromisso mediante autorização expressa.
 - **[ReperIO](https://github.com/Yiuky/ReperIO)** (Python, open source, MIT): encontra, indexa, exporta (Excel/CSV/TXT) e copia arquivos em servidores de arquivos grandes e lentos (SMB/DFS), sem instalar nada. Executável único para Windows e Linux, que não trava com pastas que congelam a conexão.
 - **[CODES](https://github.com/Yiuky/CODES)**: scripts para metadados EXIF de fotos de campo (carimbo de data, hora e coordenadas; gravação de GPS).
 
