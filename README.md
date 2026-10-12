@@ -11,6 +11,8 @@
   <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://img.shields.io/badge/IA%20local-PrivioSentry-6941C6?style=for-the-badge" alt="PrivioSentry"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
   <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.threads.com/@jgambati"><img src="https://img.shields.io/badge/%F0%9F%A7%B5%20Threads-@jgambati-000000?style=for-the-badge" alt="Threads"></a>
+  <a href="https://x.com/JoberthFG_"><img src="https://img.shields.io/badge/%F0%9D%95%8F%20X-@JoberthFG__-000000?style=for-the-badge" alt="X"></a>
   <a href="#-doe-um-café-para-o-dev"><img src="https://img.shields.io/badge/%E2%98%95%20Doe%20um%20caf%C3%A9-Pix-E67E22?style=for-the-badge" alt="Doe um café"></a>
 </p>
 
@@ -31,27 +33,17 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
 ## 🚀 Projetos públicos
 
 <p>
-  <a href="https://github.com/Yiuky/ArcMagery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ArcMagery&locale=pt-br&description_lines_count=3" alt="ArcMagery" height="140"></a>
+  <a href="https://github.com/Yiuky/ArcMagery-releases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ArcMagery-releases&locale=pt-br&description_lines_count=3" alt="ArcMagery-releases" height="140"></a>
   <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=PrivioSentry&locale=pt-br&description_lines_count=3" alt="PrivioSentry" height="140"></a>
   <a href="https://github.com/Yiuky/ReperIO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ReperIO&locale=pt-br&description_lines_count=3" alt="ReperIO" height="140"></a>
   <a href="https://github.com/Yiuky/CODES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=CODES&locale=pt-br&description_lines_count=3" alt="CODES" height="140"></a>
 </p>
 
-- **[ArcMagery & QMagery](https://github.com/Yiuky/ArcMagery-releases)** (Python 2.7 + 3, open source,
-  MIT): Ferramenta para ArcGIS Desktop (ArcMap 10.8) e QGIS (3.18+) que busca, recorta e carrega imagens de
-  satélite direto no mapa na resolução nativa, de seis fontes: Google Earth Engine, CBERS-2/4/Amazônia-1 (INPE),
-  SPOT 1–5 (CNES, com alinhamento por correlação de fase), Google Earth histórico, Esri Wayback e XYZ.
-  Motor portátil independente, instalador automatizado, verificação SHA-256 e repositório próprio de plugins do QGIS.
-- **[PrivioSentry](https://github.com/Yiuky/PrivioSentry)** (Python, open source, AGPL-3.0): encontra CPFs e
-  endereços pessoais em PDFs com IA que roda na própria máquina (Tesseract OCR + detector YOLO de assinaturas +
-  LLM de visão via Ollama), sugere as tarjas e leva tudo para revisão humana num editor web, com verificação
-  pós-tarja que **falha fechado**: na dúvida, o documento vai para revisão. Apoia práticas alinhadas à LGPD,
-  sem prometer anonimização garantida.
-- **[ReperIO](https://github.com/Yiuky/ReperIO)** (Python, open source, MIT): encontra, indexa, exporta
-  (Excel/CSV/TXT) e copia arquivos em servidores de arquivos grandes e lentos (SMB/DFS), sem instalar nada.
-  Executável único para Windows e Linux, que não trava com pastas que congelam a conexão.
-- **[CODES](https://github.com/Yiuky/CODES)**: scripts para metadados EXIF de fotos de campo (carimbo de
-  data, hora e coordenadas; gravação de GPS).
+- **[ArcMagery & QMagery](https://github.com/Yiuky/ArcMagery-releases)** (Python 2.7 + 3, uso gratuito): Ferramenta para ArcGIS Desktop (ArcMap 10.8) e QGIS (3.18+) que busca, recorta e carrega imagens de satélite direto no mapa na resolução nativa, de seis fontes: Google Earth Engine, CBERS-2/4/Amazônia-1 (INPE), SPOT 1–5 (CNES, com alinhamento geométrico à Esri), Google Earth histórico, Esri Wayback e XYZ. Motor portátil independente, instalador automatizado, verificação SHA-256 e repositório próprio de plugins do QGIS.
+- **[PrivioSentry](https://github.com/Yiuky/PrivioSentry)** (Python, open source, AGPL-3.0): encontra CPFs e endereços pessoais em PDFs com IA que roda na própria máquina (Tesseract OCR + detector YOLO de assinaturas + LLM de visão via Ollama), sugere as tarjas e leva tudo para revisão humana num editor web, com verificação pós-tarja que **falha fechado**: na dúvida, o documento vai para revisão. Apoia práticas alinhadas à LGPD, sem prometer anonimização garantida.
+- **[Porta-Voz](https://github.com/Yiuky/agente-ligacao)** (Python, Gemini Live, local-first): assistente de IA com voz bidirecional de baixa latência que faz e recebe ligações telefônicas reais pelo próprio celular Android, utilizando o chip e plano móvel existente do usuário com áudio 100% digital entre PC e telefone. Projetado para desatar burocracias de rotina (cotar exames, agendar consultas, confirmar horários) com controle humano estrito: a IA segue o roteiro, mas só confirma ou fecha qualquer compromisso mediante autorização expressa.
+- **[ReperIO](https://github.com/Yiuky/ReperIO)** (Python, open source, MIT): encontra, indexa, exporta (Excel/CSV/TXT) e copia arquivos em servidores de arquivos grandes e lentos (SMB/DFS), sem instalar nada. Executável único para Windows e Linux, que não trava com pastas que congelam a conexão.
+- **[CODES](https://github.com/Yiuky/CODES)**: scripts para metadados EXIF de fotos de campo (carimbo de data, hora e coordenadas; gravação de GPS).
 
 ## 🛠️ Áreas de atuação
 
@@ -82,8 +74,10 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
 <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?logo=apachesuperset&logoColor=white" alt="Superset">
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium">
 
-**IA:**
+**IA & Telefonia Local:**
 <img src="https://img.shields.io/badge/Ollama%20%2F%20LLMs%20locais-000000?logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/Gemini%20Live%20%2F%20Voz-4285F4?logo=google&logoColor=white" alt="Gemini Live">
+<img src="https://img.shields.io/badge/Android%20%2F%20ADB-3DDC84?logo=android&logoColor=white" alt="Android ADB">
 <img src="https://img.shields.io/badge/YOLO%20%2F%20OCR-5C3EE8?logo=opencv&logoColor=white" alt="YOLO OCR">
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code">
 
@@ -119,5 +113,9 @@ evoluindo.
 
 ## 📫 Contato
 
-Sugestões, dúvidas e problemas com os projetos: abra uma *issue* no repositório correspondente.
-Para contato profissional, use o [LinkedIn](https://www.linkedin.com/in/joberth-firmino-gambati-57248a94).
+Sugestões, dúvidas e problemas com os projetos: abra uma *issue* no repositório correspondente.  
+Para contato profissional e acompanhar atualizações dos projetos:
+- 💼 **LinkedIn:** [joberth-firmino-gambati-57248a94](https://www.linkedin.com/in/joberth-firmino-gambati-57248a94)
+- 🧵 **Threads:** [@jgambati](https://www.threads.com/@jgambati)
+- 🐦 **X (Twitter):** [@JoberthFG_](https://x.com/JoberthFG_)
+- 🌐 **Portfólio:** [yiuky.github.io](https://yiuky.github.io)
