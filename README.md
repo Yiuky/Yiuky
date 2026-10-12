@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://yiuky.github.io"><img src="https://img.shields.io/badge/Website-yiuky.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/sponsors/Yiuky"><img src="https://img.shields.io/badge/Sponsor-Yiuky-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
   <a href="https://github.com/Yiuky/ArcMagery-releases"><img src="https://img.shields.io/badge/Projeto%20Principal-ArcMagery%20%26%20QMagery-1B4F72?style=for-the-badge&logo=esri&logoColor=white" alt="ArcMagery & QMagery"></a>
   <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://img.shields.io/badge/IA%20Local-PrivioSentry-6941C6?style=for-the-badge&logo=ollama&logoColor=white" alt="PrivioSentry"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
@@ -116,8 +117,7 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
 
 ## ☕ Doe um café para o dev
 
-Se algum projeto meu economizou o seu tempo, considere pagar um café: ajuda a manter os projetos abertos e
-evoluindo.
+Se algum projeto meu economizou o seu tempo, considere apoiar o desenvolvimento: ajuda a manter os projetos abertos, gratuitos e evoluindo.
 
 <table>
   <tr>
@@ -133,11 +133,18 @@ evoluindo.
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/sponsors/Yiuky">
+    <img src="https://img.shields.io/badge/Apoiar%20via-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Apoiar via GitHub Sponsors" />
+  </a>
+</p>
+
 ## 📫 Contato
 
 Sugestões, dúvidas e problemas com os projetos: abra uma *issue* no repositório correspondente.  
 Para contato profissional e acompanhar atualizações dos projetos:
 - 💼 **LinkedIn:** [joberth-firmino-gambati-57248a94](https://www.linkedin.com/in/joberth-firmino-gambati-57248a94)
+- 💖 **GitHub Sponsors:** [github.com/sponsors/Yiuky](https://github.com/sponsors/Yiuky)
 - 🧵 **Threads:** [@jgambati](https://www.threads.com/@jgambati)
 - 🐦 **X (Twitter):** [@JoberthFG_](https://x.com/JoberthFG_)
 - 🌐 **Portfólio:** [yiuky.github.io](https://yiuky.github.io)
