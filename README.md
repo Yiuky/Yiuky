@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://yiuky.github.io"><img src="https://img.shields.io/badge/🌐%20Website-yiuky.github.io-0F172A?style=for-the-badge" alt="Website"></a>
-  <a href="https://github.com/Yiuky/ArcMagery-releases"><img src="https://img.shields.io/badge/Projeto%20principal-ArcMagery%20%26%20QMagery-1B4F72?style=for-the-badge" alt="ArcMagery & QMagery"></a>
-  <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://img.shields.io/badge/IA%20local-PrivioSentry-6941C6?style=for-the-badge" alt="PrivioSentry"></a>
+  <a href="https://yiuky.github.io"><img src="https://img.shields.io/badge/Website-yiuky.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/Yiuky/ArcMagery-releases"><img src="https://img.shields.io/badge/Projeto%20Principal-ArcMagery%20%26%20QMagery-1B4F72?style=for-the-badge&logo=esri&logoColor=white" alt="ArcMagery & QMagery"></a>
+  <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://img.shields.io/badge/IA%20Local-PrivioSentry-6941C6?style=for-the-badge&logo=ollama&logoColor=white" alt="PrivioSentry"></a>
   <a href="https://doi.org/10.5380/raega.v63i2.99969"><img src="https://img.shields.io/badge/Artigo-RA'E%20GA%202025-0B5345?style=for-the-badge" alt="Artigo RA'E GA 2025"></a>
-  <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://www.threads.com/@jgambati"><img src="https://img.shields.io/badge/%F0%9F%A7%B5%20Threads-@jgambati-000000?style=for-the-badge" alt="Threads"></a>
-  <a href="https://x.com/JoberthFG_"><img src="https://img.shields.io/badge/%F0%9D%95%8F%20X-@JoberthFG__-000000?style=for-the-badge" alt="X"></a>
-  <a href="#-doe-um-café-para-o-dev"><img src="https://img.shields.io/badge/%E2%98%95%20Doe%20um%20caf%C3%A9-Pix-E67E22?style=for-the-badge" alt="Doe um café"></a>
+  <a href="https://www.linkedin.com/in/joberth-firmino-gambati-57248a94"><img src="https://img.shields.io/badge/LinkedIn-Joberth%20Gambati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.threads.com/@jgambati"><img src="https://img.shields.io/badge/Threads-@jgambati-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://x.com/JoberthFG_"><img src="https://img.shields.io/badge/X-@JoberthFG__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="#-doe-um-café-para-o-dev"><img src="https://img.shields.io/badge/Doe%20um%20café-Pix-E67E22?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Doe um café"></a>
 </p>
 
 ---
@@ -32,12 +32,34 @@ geoespacial, automação com Python** e, mais recentemente, **inteligência arti
 
 ## 🚀 Projetos públicos
 
-<p>
-  <a href="https://github.com/Yiuky/ArcMagery-releases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ArcMagery-releases&locale=pt-br&description_lines_count=3" alt="ArcMagery-releases" height="140"></a>
-  <a href="https://github.com/Yiuky/PrivioSentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=PrivioSentry&locale=pt-br&description_lines_count=3" alt="PrivioSentry" height="140"></a>
-  <a href="https://github.com/Yiuky/ReperIO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ReperIO&locale=pt-br&description_lines_count=3" alt="ReperIO" height="140"></a>
-  <a href="https://github.com/Yiuky/CODES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=CODES&locale=pt-br&description_lines_count=3" alt="CODES" height="140"></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Yiuky/ArcMagery-releases">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ArcMagery-releases&locale=pt-br&description_lines_count=3" alt="ArcMagery-releases" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Yiuky/PrivioSentry">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=PrivioSentry&locale=pt-br&description_lines_count=3" alt="PrivioSentry" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Yiuky/ReperIO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=ReperIO&locale=pt-br&description_lines_count=3" alt="ReperIO" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Yiuky/CODES">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yiuky&repo=CODES&locale=pt-br&description_lines_count=3" alt="CODES" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 - **[ArcMagery & QMagery](https://github.com/Yiuky/ArcMagery-releases)** (Python 2.7 + 3, uso gratuito): Ferramenta para ArcGIS Desktop (ArcMap 10.8) e QGIS (3.18+) que busca, recorta e carrega imagens de satélite direto no mapa na resolução nativa, de seis fontes: Google Earth Engine, CBERS-2/4/Amazônia-1 (INPE), SPOT 1–5 (CNES, com alinhamento geométrico à Esri), Google Earth histórico, Esri Wayback e XYZ. Motor portátil independente, instalador automatizado, verificação SHA-256 e repositório próprio de plugins do QGIS.
 - **[PrivioSentry](https://github.com/Yiuky/PrivioSentry)** (Python, open source, AGPL-3.0): encontra CPFs e endereços pessoais em PDFs com IA que roda na própria máquina (Tesseract OCR + detector YOLO de assinaturas + LLM de visão via Ollama), sugere as tarjas e leva tudo para revisão humana num editor web, com verificação pós-tarja que **falha fechado**: na dúvida, o documento vai para revisão. Apoia práticas alinhadas à LGPD, sem prometer anonimização garantida.
@@ -105,7 +127,7 @@ evoluindo.
       Chave aleatória:<br>
       <code>fcf8071f-416d-49f1-b4b9-3188d3d03c4b</code><br><br>
       Pix copia e cola:<br>
-      <code>00020101021126580014br.gov.bcb.pix0136fcf8071f-416d-49f1-b4b9-3188d3d03c4b5204000053039865802BR5917JOBERTH F GAMBATI6006CUIABA62070503***63048088</code><br><br>
+      <code style="word-break: break-all;">00020101021126580014br.gov.bcb.pix0136fcf8071f-416d-49f1-b4b9-3188d3d03c4b5204000053039865802BR5917JOBERTH F GAMBATI6006CUIABA62070503***63048088</code><br><br>
       <em>Favorecido: Joberth Firmino Gambati</em>
     </td>
   </tr>
